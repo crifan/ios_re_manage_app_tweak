@@ -12,7 +12,7 @@
       * 只要系统满足安装要求，那就不用再依赖证书，安装的IPA“永久有效”
   * 作者：`opa334`
   * logo图标
-    * ![trollstore_logo](../../assets/img/trollstore_logo.png)
+    * ![trollstore_logo](../../../assets/img/trollstore_logo.png)
   * 官网
     * 官方的github
       * opa334/TrollStore: Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple (github.com)
