@@ -1,0 +1,19 @@
+{
+  "title": "iOS逆向：管理app和插件",
+  "description": "整理iOS越狱后，iOS逆向app期间，如何管理app和相关越狱插件的方式和常见问题及解决办法。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ios_re_manage_app_tweak"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/ios_re_manage_app_tweak/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/ios_re_manage_app_tweak/pdf/ios_re_manage_app_tweak.pdf"
+    }
+  }
+}
